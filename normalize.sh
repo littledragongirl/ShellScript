@@ -1,5 +1,7 @@
 #!/bin/bash
 #
+# by Mary Liu 5/22/2018
+#
 # this shell script accepts a single directory argument.
 # it then changes the names of each item in that directory to 
 # remove the following characters: space, square brackets, question mark,
